@@ -28,7 +28,7 @@ This project aims to find the path of water flow on a given terrain represented 
  
 ## Output Screenshot
  
-![Screenshot (104)](https://github.com/ombothe08/Waterflow_Generator/assets/158052399/ac718751-7777-49e6-baa6-b7d3d845e517)
+ ![Screenshot (9)](https://github.com/Sumit-Giri/WaterPath_Assignment/assets/158052390/31c6a067-0ce9-4b2a-b790-035126ebd196)
  
-![Screenshot (106)](https://github.com/ombothe08/Waterflow_Generator/assets/158052399/00ec0d32-330e-4346-9ba8-e9524f8e1eb8)
- 
+![Screenshot (10)](https://github.com/Sumit-Giri/WaterPath_Assignment/assets/158052390/593f0b52-4e84-4de7-b5fe-a19378cffc83)
+
